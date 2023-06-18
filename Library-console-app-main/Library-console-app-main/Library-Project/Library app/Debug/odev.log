@@ -1,0 +1,4 @@
+﻿  odev.cpp
+C:\Users\sinan bavli\Desktop\odevler\ProjectODEV\odev\odev\odev.cpp(8,17): warning C4081: expected '('; found ')'
+C:\Users\sinan bavli\Desktop\odevler\ProjectODEV\odev\odev\odev.cpp(9,32): warning C4081: expected 'newline'; found ';'
+  odev.vcxproj -> C:\Users\sinan bavli\Desktop\odevler\ProjectODEV\odev\Debug\odev.exe
